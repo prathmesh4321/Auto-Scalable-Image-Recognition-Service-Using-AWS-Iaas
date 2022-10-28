@@ -1,12 +1,5 @@
-# Team members:
-1. Abhiram Anand Gulanikar
-2. Vinay Pandhariwal
-3. Prathmesh Sambrekar
-
-# Team Member tasks (Refer Report)
-1. Abhiram : DESIGN AND DEVELOPED APPTIER FUNCTIONALITIES AND HELPED IN SQS OPERATIONS.
-2. Vinay : DESIGN AND DEVELOPED THE WEBTIER FUNCTIONALITIES AND HELPED IN SQS OPERATIONS.
-3. Prathmesh : DESIGN AND DEVELOPED THE SQS, S3 OPERATIONS THROUGH JAVA TO PYTHON AND TOOK CARE OF RIGOROUS TESTING.
+Thge project consists of an application on AWS EC2 developed using Spring Boot and Python that processes requests and auto-scales to provide a fast and efficient image recognition service using a deep learning model.
+The Web Tier consists of a Spring Application and Web Tier Consists of a Python Application.
 
 # Web Tier's URL
 WEBTIER EC2 IP: ec2-44-202-237-157.compute-1.amazonaws.com (44.202.237.157) (Might Change).
