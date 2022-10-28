@@ -18,26 +18,3 @@ A distributed queue offered by AWS services is called SQS, or Simple Queue Servi
 
 e. AWS S3
 The AWS S3 or Simple Storage Service is a key-value store. It is used at two places in the project. The first S3 bucket (input bucket) is responsible for holding the image file name and the actual file. This is the place from where the app tier downloads the image for classification. Finally, the second S3 bucket (output bucket) holds the image name and classification result pair.
-
-# Web Tier's URL
-WEBTIER EC2 IP: ec2-44-202-237-157.compute-1.amazonaws.com (44.202.237.157) (Might Change).
-WEBTIER APPLICATION URL: http://ec2-44-202-237-157.compute-1.amazonaws.com:8080/recognizeImage
-
-# AWS Credentials
-PLEASE FIND FILE rootkey.csv in directory.
-
-# PEM Key
-PLEASE FIND FILE CC-Class.pem in directory.
-
-# EIP <NOT PURCHASED>
-
-# SQS names:
-1. input-queue-alpha.fifo
-2. output-queue-alpha.fifo
-
-# S3 bucket names:
-1. input-bucket-alpha
-2. output-bucket-alpha
-
-
-
