@@ -1,0 +1,32 @@
+# Team members:
+1. Abhiram Anand Gulanikar
+2. Vinay Pandhariwal
+3. Prathmesh Sambrekar
+
+# Team Member tasks (Refer Report)
+1. Abhiram : DESIGN AND DEVELOPED APPTIER FUNCTIONALITIES AND HELPED IN SQS OPERATIONS.
+2. Vinay : DESIGN AND DEVELOPED THE WEBTIER FUNCTIONALITIES AND HELPED IN SQS OPERATIONS.
+3. Prathmesh : DESIGN AND DEVELOPED THE SQS, S3 OPERATIONS THROUGH JAVA TO PYTHON AND TOOK CARE OF RIGOROUS TESTING.
+
+# Web Tier's URL
+WEBTIER EC2 IP: ec2-44-202-237-157.compute-1.amazonaws.com (44.202.237.157) (Might Change).
+WEBTIER APPLICATION URL: http://ec2-44-202-237-157.compute-1.amazonaws.com:8080/recognizeImage
+
+# AWS Credentials
+PLEASE FIND FILE rootkey.csv in directory.
+
+# PEM Key
+PLEASE FIND FILE CC-Class.pem in directory.
+
+# EIP <NOT PURCHASED>
+
+# SQS names:
+1. input-queue-alpha.fifo
+2. output-queue-alpha.fifo
+
+# S3 bucket names:
+1. input-bucket-alpha
+2. output-bucket-alpha
+
+
+
