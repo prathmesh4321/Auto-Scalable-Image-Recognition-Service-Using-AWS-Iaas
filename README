@@ -1,5 +1,5 @@
 Thge project consists of an application on AWS EC2 developed using Spring Boot and Python that processes requests and auto-scales to provide a fast and efficient image recognition service using a deep learning model.
-The Web Tier consists of a Spring Application and Web Tier Consists of a Python Application.
+The Web Tier consists of a Spring Application and App Tier Consists of a Python Application.
 
 # Web Tier's URL
 WEBTIER EC2 IP: ec2-44-202-237-157.compute-1.amazonaws.com (44.202.237.157) (Might Change).
